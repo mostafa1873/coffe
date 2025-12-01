@@ -1,0 +1,100 @@
+{
+    "nav": {
+        "home": "Home",
+        "shop": "Shop",
+        "about": "About",
+        "contact": "Contact",
+        "cart": "Cart"
+    },
+    "home": {
+        "hero": {
+            "title": "Premium Fresh Roasted",
+            "subtitle": "Coffee Beans",
+            "description": "Experience the rich aroma and exquisite taste of ethically sourced, expertly roasted coffee delivered to your door.",
+            "shopNow": "Shop Now",
+            "learnMore": "Learn More"
+        },
+        "features": {
+            "shipping": "Free Shipping",
+            "shippingDesc": "On all orders over $50",
+            "quality": "Quality Guarantee",
+            "qualityDesc": "100% satisfaction guaranteed",
+            "ethical": "Ethically Sourced",
+            "ethicalDesc": "Direct trade with farmers"
+        },
+        "featured": {
+            "title": "Featured Roasts",
+            "subtitle": "Our most popular beans, roasted to perfection and ready to brew.",
+            "viewAll": "View All"
+        },
+        "about": {
+            "title": "We take coffee",
+            "highlight": "seriously.",
+            "description": "From the high-altitude farms of Ethiopia to the volcanic soils of Guatemala, we travel the world to find the finest beans. Our master roasters then carefully roast each batch to highlight its unique flavor profile.",
+            "readStory": "Read Our Story"
+        },
+        "testimonials": {
+            "title": "What Our Customers Say"
+        },
+        "newsletter": {
+            "title": "Join the Coffee Club",
+            "description": "Get 10% off your first order and stay updated on our latest roasts and brewing guides.",
+            "placeholder": "Enter your email",
+            "subscribe": "Subscribe"
+        }
+    },
+    "products": {
+        "title": "Our Collection",
+        "description": "Explore our carefully curated selection of premium coffee beans from around the world.",
+        "filters": {
+            "all": "All",
+            "roast": "Roast"
+        },
+        "notFound": "No products found for this category.",
+        "viewAll": "View all products"
+    },
+    "productDetails": {
+        "reviews": "reviews",
+        "quantity": "Quantity:",
+        "addToCart": "Add to Cart",
+        "freeShipping": "Free shipping over $50",
+        "freshness": "Freshness guaranteed",
+        "details": "Product Details",
+        "region": "Region:",
+        "weight": "Weight:",
+        "roastLevel": "Roast Level:",
+        "process": "Process:",
+        "related": "You Might Also Like"
+    },
+    "cart": {
+        "title": "Your Cart",
+        "empty": "Your Cart is Empty",
+        "emptyDesc": "Looks like you haven't added any coffee to your cart yet. Start shopping to find your perfect roast.",
+        "startShopping": "Start Shopping",
+        "continueShopping": "Continue Shopping",
+        "clearCart": "Clear Cart",
+        "summary": "Order Summary",
+        "subtotal": "Subtotal",
+        "shipping": "Shipping",
+        "free": "Free",
+        "freeShippingMsg": "Add ${amount} more for free shipping!",
+        "total": "Total",
+        "checkout": "Checkout",
+        "secure": "Secure Checkout • Money-back Guarantee"
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "subtitle": "Have questions about our beans, brewing methods, or your order? We're here to help.",
+        "visit": "Visit Our Roastery",
+        "visitDesc": "Come smell the coffee! Our flagship roastery and cafe is open daily. We offer tastings, brewing workshops, and of course, fresh beans to take home.",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "hours": "Hours",
+        "formTitle": "Send us a Message",
+        "name": "Name",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Message"
+    }
+}
